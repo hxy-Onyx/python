@@ -1,0 +1,16 @@
+1.python源语言以.py结尾
+2.PYTHON语言执行默认按顺序执行
+3.python区分大小写
+4.python不需要以分号结尾
+
+快捷键
+shift+delete：删除当前行
+ctrl+d ：复制当前行
+ctrl+/ ：添加注释和取消注释
+自定义alt+r：run
+ctrl+h看类的继承关系
+ctrl+f是查找
+
+转义字符
+\t ：tab
+\n:换行符
