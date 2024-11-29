@@ -1,4 +1,0 @@
-基本的三种方式
-print("个人信息：%s-%d-%s-%.2f"%(name,score,gender,))
-print(f"个人信息:{score}{gender}{name}")
-print("个人信息:{}{}{}".format(name,score,gender))
